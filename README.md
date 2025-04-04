@@ -16,19 +16,6 @@ Welcome to the repository for my personal portfolio website!
 **View the live version here:**
 ➡️ [**https://karanport.netlify.app/**](https://karanport.netlify.app/)
 
----
-
-## 📸 Preview
-
-*(Replace the lines below with Markdown for your actual website screenshots. You can add one or more images.)*
-
-`![Screenshot 1 Alt Text](YOUR_SCREENSHOT_1_URL_OR_PATH)`
-`![Screenshot 2 Alt Text](YOUR_SCREENSHOT_2_URL_OR_PATH)`
-``
-
-*(Ensure the image paths or URLs are correct and accessible from your repository or the web.)*
-
----
 
 ## 📌 Core Features
 
